@@ -4,7 +4,7 @@ A set of rules and conventions for standardizing the modularization of *Ruby on 
 
 ## Dependencies
 
-- https://github.com/Uqido/spec-specification-repository/tree/0.0.1
+- https://github.com/Uqido/spec-specification-repository/tree/v0.0.1
 
 ## Adoption Impact
 
