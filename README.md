@@ -1,10 +1,10 @@
-# Spec: Rails Business Logic v0.0.1
+# Spec: Rails Business Logic v0.0.2
 
 A set of rules and conventions for standardizing the modularization of *Ruby on Rails* business logic.
 
 ## Dependencies
 
-- https://github.com/Uqido/spec-specification-repository/tree/v0.0.1
+- https://github.com/Uqido/spec-specification-repository/tree/v1.0.1
 
 ## Adoption Impact
 
